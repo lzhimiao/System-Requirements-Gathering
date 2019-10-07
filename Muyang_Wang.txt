@@ -1,1 +1,5 @@
-test
+1. Do we need to make a desktop application or just a website that teachers can access
+2. Does each school takes the attendance the same time
+3. Does the district want the system to send the attendance data to their data base or how often do they need it.
+4. Does the district already have a system to send warning letters.
+5. Does the district need special notification if a student is missing after lunch.
