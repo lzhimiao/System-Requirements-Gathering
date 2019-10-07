@@ -1,1 +1,7 @@
 # System-Requirements-Gathering
+1. How might we meet this efficiency need?
+2. Where does the process start?
+3. Where we store each student information?
+4. What to do when the one part of system is broken?
+5. How to automatically send email to student's email box?
+6. How to contact the parents when student absense
