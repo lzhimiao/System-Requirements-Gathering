@@ -1,14 +1,14 @@
 How will user use feature
-
+- How would teachers understand the feature of products?
 What kind of device is going to use this software
-
+- The device is gonna be tablet and computer
 What is the secure level needed?
-
+- How to make sure only the authentic staff to manage the data?
 What is attendance report cards do?
-
+- How to make student to check their absence.
 Who is going to receive attendance reports?
-
+- How to make sure that both parents and students receive reprot?
 What kind of format does the report cards need to be ?
-
+- How to format the report cards
 Do you need to always keep the records or delete after some period?
-
+- Do we need to keep every data?
