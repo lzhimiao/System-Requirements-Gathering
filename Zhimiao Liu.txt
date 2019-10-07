@@ -2,6 +2,9 @@
 1. How might we meet this efficiency need?
 2. Where does the process start?
 3. Where we store each student information?
+	We whether create a new data base, or use the existing student information data base
 4. What to do when the one part of system is broken?
+	Does our system need protection against cyber attack.
 5. How to automatically send email to student's email box?
+	We actually need to send email to the parents of students.
 6. How to contact the parents when student absense
