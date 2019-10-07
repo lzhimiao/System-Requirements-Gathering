@@ -1,5 +1,8 @@
 1. Do we need to make a desktop application or just a website that teachers can access
+- what kinds of device is going to use this application?
 2. Does each school takes the attendance the same time
 3. Does the district want the system to send the attendance data to their data base or how often do they need it.
+-What is the backup frequency needed?
 4. Does the district already have a system to send warning letters.
+-is there exsisting applications that can connect to the new system
 5. Does the district need special notification if a student is missing after lunch.
