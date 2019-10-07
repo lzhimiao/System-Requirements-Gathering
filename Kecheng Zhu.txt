@@ -1,0 +1,14 @@
+How will user use feature
+
+What kind of device is going to use this software
+
+What is the secure level needed?
+
+What is attendance report cards do?
+
+Who is going to receive attendance reports?
+
+What kind of format does the report cards need to be ?
+
+Do you need to always keep the records or delete after some period?
+
